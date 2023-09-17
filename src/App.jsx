@@ -18,7 +18,7 @@ function App() {
       </ol>
       <hr />
 
-      <Posts></Posts>
+      {/* <Posts></Posts> */}
     </>
   )
 }
